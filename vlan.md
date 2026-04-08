@@ -36,3 +36,10 @@ They cannot communicate without routing
 ## What I Learned
 
 VLANs separate networks logically even if devices are physically connected.
+
+## Example
+
+VLAN 10 → Sales  
+VLAN 20 → IT  
+
+Devices in different VLANs cannot communicate without a router.
