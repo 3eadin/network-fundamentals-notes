@@ -41,3 +41,15 @@ Formula:
 ## What I Learned
 
 Subnetting helps organize networks efficiently and is essential for routing.
+
+
+## Example
+
+Network: 192.168.1.0/24  
+Subnet mask: 255.255.255.0  
+
+Range:
+192.168.1.1 - 192.168.1.254  
+
+Broadcast:
+192.168.1.255
