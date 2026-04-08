@@ -43,3 +43,9 @@ STP prevents loops in a Layer 2 network.
 ## What I Learned
 
 STP is essential to keep networks stable and prevent loops.
+
+## Example
+
+SW1 = Root Bridge  
+SW2 = Root Port  
+SW3 = Blocking Port
